@@ -28,20 +28,6 @@ function About() {
       <h2 class="section-title myskills"> My <span className="span-color">Skills.</span></h2>
       </Fade>
 
-      <div className="skills">
-        <Zoom bottom>
-        <div className="tech-icons"><i class="devicon-html5-plain"></i></div>
-        <div className="tech-icons"><i class="devicon-css3-plain"></i></div>
-        <div className="tech-icons"><i class="devicon-javascript-plain"></i></div>
-        <div className="tech-icons"><i class="fab fa-node-js fa-7x"></i></div>
-        <div className="tech-icons"><i class="fab fa-react fa-7x"></i></div>
-        <div className="tech-icons"><i class="devicon-mongodb-plain"></i></div>
-        <div className="tech-icons"><i class="devicon-express-original"></i></div>
-        <div className="tech-icons"><i class="devicon-graphql-plain"></i></div>
-        <div className="tech-icons"><i class="devicon-mysql-plain"></i></div>
-        </Zoom>
-      </div>
-
     </section>
     
   );
